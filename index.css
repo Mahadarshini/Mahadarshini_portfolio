@@ -1,0 +1,10 @@
+body{
+    background-color:linear-gradient(to right, rgb(10, 10, 45), rgb(41, 41, 212));
+}
+.carousel slide{
+    width: 100%;
+    height: 100%;
+}
+.float-start{
+    background-color: aqua;
+}
